@@ -31,7 +31,22 @@
 	}
 	
 	//--------------------------------------------------------------
-
+	
+	"TransparentViewmodelMask"
+	{
+		//alpha doesn't work for this, you need to change the texture's alpha
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TransparentViewmodelMask"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-100"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"replay/thumbnails/REFRACTnormal_transparent"
+		"scaleImage"	"1"
+	}
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -100,7 +115,7 @@
 		"xpos"			"0"
 		"ypos"			"c62"
 		"wide"			"f0"
-		"tall"			"300"
+		"tall"			"500"
 	}
 	
 	HudDemomanCharge
@@ -110,7 +125,7 @@
 		"enabled"	"1"
 		"xpos"		"c-75"
 		"ypos"		"c25"
-		"wide"		"118"
+		"wide"		"150"
 		"tall"		"500"
 		"MeterFG"	"White"
 		"MeterBG"	"Gray"
