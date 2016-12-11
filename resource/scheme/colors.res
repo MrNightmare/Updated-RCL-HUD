@@ -23,14 +23,12 @@ Scheme
 		"LowAmmo1"				"200 150 0 255"
 		"LowAmmo2"				"255 0 110 255"
 		
-		"Stickies"				"0 243 0 255"
+		"Stickies"				"243 243 243 255"
 		"Metal"					"243 243 243 255"
 		"Killstreak"			"243 243 243 255"
 		
-		"ChargePercent"			"0 243 243 255"
-		"Ubercharge Meter"		"0 255 127 255"
-		"Ubercharge1"			"0 255 127 255"
-		"Ubercharge2"			"0 210 105 255"
+		"ChargePercent"			"255 243 243 255"
+		"Ubercharge Meter"		"255 0 127 255"
 		
 		"CBpink"		"255 0 108 255"
 		"CBblue"		"0 191 244 255"

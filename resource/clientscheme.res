@@ -64,8 +64,8 @@ Scheme
 		}
 		"9"
 		{
-			"font"	"resource/fonts/CodeProLC.otf"
-			"name"	"Code-Pro-LC"
+			"font"	"resource/fonts/Comfortaa.ttf"			/// Changed from Code-Pro-LC.otf to Comfortaa.ttf
+			"name"	"Comfortaa"
 		}
 		"10"
 		{
@@ -89,8 +89,8 @@ Scheme
 		}
 		"14"
 		{
-			"font" "resource/fonts/Piximsa.ttf"
-			"name" "Code-Pro-Bold"
+			"font" "resource/fonts/Piximisa.ttf"
+			"name" "Piximisa Regular"
 		}
 		"15"
 		{

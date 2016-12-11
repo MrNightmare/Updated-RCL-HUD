@@ -598,6 +598,7 @@ Scheme
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
+				"weight"	"550"
 			}
 		}
 		"logo40"

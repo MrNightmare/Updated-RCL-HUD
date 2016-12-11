@@ -1,14 +1,14 @@
-"Resource/UI/HudItemEffectMeter_Sniper.res"
+"Resource/UI/HudItemEffectMeter_Spy.res"
 {
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c115"	
-		"ypos"			"374"
-		"wide"			"75"
-		"tall"			"20"
+		"xpos" 			"c-42"
+		"ypos" 			"374"
+		"wide" 			"75"
+		"tall" 			"20"
 		"MeterFG"		"TanLight"
 		"MeterBG"		"Gray"
 	}
@@ -29,24 +29,6 @@
 		"teambg_2"		"../hud/misc_ammo_area_red"
 		"teambg_3"		"../hud/misc_ammo_area_blue"
 	}
-	"ItemEffectMeterIcon"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterIcon"
-		"xpos"					"50"
-		"ypos"					"-7"
-		"zpos"					"2"
-		"wide"					"25"
-		"tall"					"25"
-		"textinsetx"			"0"
-		"textinsety"			"0"
-		"visible"				"1"
-		"enabled"				"1"
-		"labelText"				"C"
-		"textAlignment"			"west"
-		"font"					"ArrowBig"
-		"fgcolor_override"		"Icon Colour"
-	}
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -58,8 +40,8 @@
 		"tall"					"8"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"east"
@@ -74,8 +56,8 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"ypos"					"25"
-		"xpos"					"23"
+		"xpos"					"25"
+		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"6"				
@@ -106,7 +88,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"NormalCode20"
-		"fgcolor"				"Green"
+		"fgcolor"				"CBblue"
 	}
 	"ItemEffectMeterCountBackground"
 	{

@@ -5,13 +5,26 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"575"
+		"xpos"			"595"
 		"ypos"			"-100"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"		
+	}
+	"BarUnderPlayerClass"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BarUnderPlayerClass"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"99"
+		"tall"	 		"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"BarUnderHealthAmmoMedic"
 	}
 	"PlayerStatusClassImage"
 	{
