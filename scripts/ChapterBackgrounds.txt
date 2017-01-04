@@ -1,6 +1,6 @@
 "chapters"
 {
-	1	"background_upward"
+	1	"background_gravelpit"
 	2	"background_gravelpit"
 
 
